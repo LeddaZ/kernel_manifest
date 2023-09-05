@@ -43,7 +43,7 @@
   </project>
   <project path="private/google-modules/aoc" name="kernel/google-modules/aoc" groups="partner" />
   <project path="private/google-modules/aoc_ipc" name="kernel/google-modules/aoc-ipc" groups="partner" />
-  <project path="private/google-modules/display" name="google-modules_display" groups="partner" remote="hentai" />
+  <project path="private/google-modules/display" name="kernel/google-modules/display" groups="partner" />
   <project path="private/google-modules/gpu" name="kernel/google-modules/gpu" groups="partner" />
   <project path="private/google-modules/gxp/gs201" name="kernel/google-modules/gxp/gs201" groups="partner" />
   <project path="private/google-modules/edgetpu/abrolhos" name="kernel/google-modules/edgetpu/abrolhos" groups="partner"/>
